@@ -1,0 +1,1 @@
+# An-lisis-de-par-metros-de-un-conversor-ADC
